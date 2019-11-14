@@ -1,0 +1,3 @@
+selenium
+html-testRunner
+pyinstaller
